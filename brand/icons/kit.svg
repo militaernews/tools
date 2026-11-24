@@ -1,0 +1,24 @@
+<!-- Icon fragment for the brand generator: drawn in a 512×512 box, may use #col, #glow, #screen, #sweep -->
+<g>
+	<rect x="132" y="214" width="248" height="170" rx="14" fill="url(#col)"/>
+	<rect x="150" y="262" width="62" height="100" rx="5" fill="#2ec5ff" fill-opacity=".88"/>
+	<text x="181" y="322" text-anchor="middle" font-family="Noto Sans" font-weight="700" font-size="34" fill="#061a36">Aa</text>
+	<rect x="160" y="336" width="42" height="6" rx="2" fill="#061a36" fill-opacity=".7"/>
+	<rect x="225" y="262" width="62" height="100" rx="5" fill="#f2fbff" fill-opacity=".92"/>
+	<rect x="235" y="276" width="42" height="6" rx="2" fill="#0c3a6b"/>
+	<rect x="235" y="290" width="32" height="6" rx="2" fill="#0c3a6b" fill-opacity=".7"/>
+	<rect x="235" y="304" width="38" height="6" rx="2" fill="#0c3a6b" fill-opacity=".7"/>
+	<rect x="235" y="318" width="26" height="6" rx="2" fill="#0c3a6b" fill-opacity=".7"/>
+	<rect x="235" y="332" width="40" height="6" rx="2" fill="#0c3a6b" fill-opacity=".7"/>
+	<rect x="300" y="262" width="62" height="100" rx="5" fill="#1f6fae"/>
+	<path d="M331 280L352 318H310Z" fill="none" stroke="#9be7ff" stroke-width="4" stroke-linejoin="round"/>
+	<path d="M331 293V305M331 311V312" stroke="#9be7ff" stroke-width="4" stroke-linecap="round"/>
+	<rect x="312" y="332" width="38" height="6" rx="2" fill="#9be7ff"/>
+	<g fill="none" stroke="#bdefff" stroke-width="4" filter="url(#glow)">
+		<rect x="132" y="214" width="248" height="170" rx="14"/>
+		<path d="M132 250H380"/>
+		<path d="M206 214V180Q206 166 220 166H292Q306 166 306 180V214"/>
+		<rect x="240" y="240" width="32" height="20" rx="4"/>
+	</g>
+	<circle cx="256" cy="250" r="5" fill="#9be7ff" filter="url(#glow)"/>
+</g>

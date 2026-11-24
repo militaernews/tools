@@ -1,0 +1,7 @@
+{
+  "name": "Example",
+  "icon": "kit",
+  "tagline": ["One line about the project,", "and a second one."],
+  "tags": "FIRST · SECOND · THIRD",
+  "out": "out"
+}
